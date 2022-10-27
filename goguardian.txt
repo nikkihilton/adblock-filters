@@ -3,6 +3,5 @@
 ! Title: GoGuardian
 ! Last modified: 27 Oct 2022 19:16 UTC
 
-goguardian.com
-*.goguardian.com
-*.goguardian.com/*
+$domain=goguardian.com
+.goguardian.com/*
