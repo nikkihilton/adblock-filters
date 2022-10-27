@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 202210271916
+! Title: GoGuardian
+! Last modified: 27 Oct 2022 19:16 UTC
+
 goguardian.com
 *.goguardian.com
 *.goguardian.com/*
