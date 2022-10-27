@@ -1,0 +1,3 @@
+goguardian.com
+*.goguardian.com
+*.goguardian.com/*
