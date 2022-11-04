@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202210271916
 ! Title: GoGuardian
-! Last modified: 27 Oct 2022 19:16 UTC
+! Last modified: 04 Nov 2022 13:57 UTC
 
 127.0.0.1 goguardian.com
 127.0.0.1 blocked.goguardian.com
