@@ -3,5 +3,6 @@
 ! Title: GoGuardian
 ! Last modified: 27 Oct 2022 19:16 UTC
 
-$domain=goguardian.com
-$domain=*.goguardian.com/*
+127.0.0.1 goguardian.com
+127.0.0.1 blocked.goguardian.com
+127.0.0.1 screenshot.goguardian.comt
